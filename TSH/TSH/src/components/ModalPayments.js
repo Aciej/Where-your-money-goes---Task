@@ -27,7 +27,7 @@ export default class ModalPayments extends React.Component {
                     </div>
                          <div>
                         <h1>Payment Value: </h1>
-                       <h2>{this.props.data.payment_amount}</h2>
+                        <h2>{"£" +this.props.data.payment_amount}</h2>
                     </div>
                 </Modal.Body>
                 <Modal.Footer>
