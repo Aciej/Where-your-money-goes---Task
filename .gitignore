@@ -240,3 +240,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+typings/
+/TSH/TSH/bundle.js.map
+/TSH/TSH/bundle.js
