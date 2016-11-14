@@ -68,7 +68,6 @@
     <Folder Include="src\fonts\" />
     <Folder Include="typings\" />
     <Folder Include="typings\globals\" />
-    <Folder Include="typings\globals\babel-core\" />
     <Folder Include="typings\globals\bootstrap\" />
     <Folder Include="typings\globals\es6-promise\" />
     <Folder Include="typings\globals\jquery\" />
@@ -81,7 +80,6 @@
     <Folder Include="typings\globals\webpack\" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="typings\globals\babel-core\index.d.ts" />
     <TypeScriptCompile Include="typings\globals\bootstrap\index.d.ts" />
     <TypeScriptCompile Include="typings\globals\es6-promise\index.d.ts" />
     <TypeScriptCompile Include="typings\globals\jquery\index.d.ts" />
